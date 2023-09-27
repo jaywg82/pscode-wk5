@@ -18,8 +18,7 @@ ELSE
   WRITE "ODD"
 STOP
 
-// Exercise 3: 
-Write pseudo code that will perform the following.    
+// Exercise 3: Write pseudo code that will perform the following.    
 
 START
 DECLARE num1,num2,num3,num4,num5
